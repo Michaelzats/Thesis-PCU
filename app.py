@@ -22,7 +22,7 @@ st.write("""
 This app uses a Support Vector Machine (SVM) model for classifying text from articles in English language into categories. Simply choose between entering your text, uploading a text file, or linking the article page in the internet with the URL* in the box below and press 'Classify' to see the predicted category and the model's confidence in its prediction.
 """)
 st.write("""
-The app is able to identify particular text topics: business, entertainment, food, graphics, historical, medical, politics, space, sport, and technology. The app is developed as part of the Master Thesis work of Michael Zats.
+The app is able to identify particular text topics: business, entertainment, politics, sport, and technology. The app is developed as part of the Master Thesis work of Michael Zats.
 """)
 st.markdown("""
 Should you want to see all models available or use a different dataset for training, 
