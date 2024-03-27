@@ -19,7 +19,7 @@ st.title('Text Classification based on SVM Model')
 # Description and links
 st.markdown('---')
 st.write("""
-This app uses a Support Vector Machine (SVM) model for classifying text from articles in English language into categories. Simply choose between entering your text, uploading a text file, or linking the article page in the internet with the URL in the box below and press 'Classify' to see the predicted category and the model's confidence in its prediction.
+This app uses a Support Vector Machine (SVM) model for classifying text from articles in English language into categories. Simply choose between entering your text, uploading a text file, or linking the article page in the internet with the URL* in the box below and press 'Classify' to see the predicted category and the model's confidence in its prediction.
 """)
 st.write("""
 The app is able to identify particular text topics: business, entertainment, food, graphics, historical, medical, politics, space, sport, and technology. The app is developed as part of the Master Thesis work of Michael Zats.
@@ -27,6 +27,10 @@ The app is able to identify particular text topics: business, entertainment, foo
 st.markdown("""
 Should you want to see all models available or use a different dataset for training, 
 please refer to this [Google Colab Notebook](https://colab.research.google.com/drive/1d_RZR8xhiVBPSOCMJKwHvPtWBXE6nAVQ?usp=sharing) or this [Github Repository](https://github.com/Michaelzats/Thesis-PCU).
+""")
+
+st.markdown("""
+Linking URL Pages option*: sometimes this option may not work as some particular websites do not let the crawler to go through.
 """)
 st.markdown('---')
 
@@ -58,10 +62,8 @@ if st.button('Classify'):
         probabilities = svm_model.predict_proba(transformed_input)
         max_prob_index = probabilities[0].argmax()
         prediction = svm_model.classes_[max_prob_index]
-        confidence = probabilities[0][max_prob_index] * 100  # Convert to percentage
-        
+
         st.subheader('Classification Result')
         st.write(f'Predicted category: **{prediction}**')
-        st.write(f'Confidence: **{confidence:.2f}%**')
     else:
         st.warning("Please enter some text, upload a file, or enter a URL to classify.")
