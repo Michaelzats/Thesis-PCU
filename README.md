@@ -74,7 +74,7 @@ word2vec_model = api.load("word2vec-google-news-300")
 
 Usage:
 Basic examples:
-* Load the dataset provided “dataset (10)Dataset Text Document Classification.zip” for part 1 “Dataset BBC Full Text Document Classification.zip” for part 2 and “Data_For_the_App_Training.zip” for part 3 in the project PART 1 in Google Colab. You can do it by clicking on the file folder icon from the right in Colab and then draging “example.zip” File into the opened part.  Example how to drag “DATASETS.zip” into the file folder as an example<img width="173" alt="Screenshot 2024-04-01 at 13 18 06" src="https://github.com/Michaelzats/Thesis-PCU/assets/92814061/e0d7a980-f8c6-4f56-867d-c102ae981ab4">
+* Load the dataset provided “dataset (10)Dataset Text Document Classification.zip” for part 1 “Dataset BBC Full Text Document Classification.zip” for part 2 and “Data_For_the_App_Training.zip” for part 3 in the project PART 1 in Google Colab. You can do it by clicking on the file folder icon from the right in Colab and then draging “example.zip” File into the opened part.  Example how to drag “DATASETS.zip” into the file folder as an example <img width="173" alt="Screenshot 2024-04-01 at 13 18 06" src="https://github.com/Michaelzats/Thesis-PCU/assets/92814061/e0d7a980-f8c6-4f56-867d-c102ae981ab4">
 
 
 
