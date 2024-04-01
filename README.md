@@ -21,7 +21,7 @@ Prerequisites:
 
 Installation steps:
 * Clone the repository from Google Colab. (https://colab.research.google.com/drive/1j-RytXdZDXCAWKHlaQdFWmRo64SJt_3Y?usp=sharing) In Colab click File --> Save a copy in Colab.
-<img width="270" alt="Screenshot 2023-08-16 at 21 21 34" src="https://github.com/Michaelzats/ICA-ML/assets/92814061/02117dcb-9c6a-44fe-8f6d-e457cdb5010a"> 
+<img width="200" alt="Screenshot 2024-04-01 at 13 16 44" src="https://github.com/Michaelzats/Thesis-PCU/assets/92814061/cfd2e93c-2450-47cb-bdb9-d62b3f967a02">
 
 * Install necessary Python libraries using !pip install
   
@@ -74,8 +74,11 @@ word2vec_model = api.load("word2vec-google-news-300")
 
 Usage:
 Basic examples:
-* Load the dataset provided “dataset (10)Dataset Text Document Classification.zip” for part 1 “Dataset BBC Full Text Document Classification.zip” for part 2 and “Data_For_the_App_Training.zip” for part 3 in the project PART 1 in Google Colab. You can do it by clicking on the file folder icon from the right in Colab and then draging “example.zip” File into the opened part.  Example how to drag “example.zip” into the file folder <img width="573" alt="Screenshot 2023-08-16 at 21 19 02" src="https://github.com/Michaelzats/ICA-ML/assets/92814061/fd7286c6-8529-4340-8c94-19580c6a57a7">
-*Do not unzip it before the excucution, the command # Once uploaded, unzip using: “!unzip example.zip !ls” will do it.
+* Load the dataset provided “dataset (10)Dataset Text Document Classification.zip” for part 1 “Dataset BBC Full Text Document Classification.zip” for part 2 and “Data_For_the_App_Training.zip” for part 3 in the project PART 1 in Google Colab. You can do it by clicking on the file folder icon from the right in Colab and then draging “example.zip” File into the opened part.  Example how to drag “DATASETS.zip” into the file folder as an example<img width="173" alt="Screenshot 2024-04-01 at 13 18 06" src="https://github.com/Michaelzats/Thesis-PCU/assets/92814061/e0d7a980-f8c6-4f56-867d-c102ae981ab4">
+
+
+
+* Do not unzip it before the excucution, the command # Once uploaded, unzip using: “!unzip example.zip !ls” will do it.
 * Train the model using the provided training set.
 * Evaluate the model using the test set.
 
