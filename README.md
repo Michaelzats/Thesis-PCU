@@ -8,6 +8,7 @@ Automating News Article Classification with Machine Learning Based on Document C
 
   
 **PART 1 (Google Colab Project Part)**
+
 Google Colab Link ( https://colab.research.google.com/drive/1d_RZR8xhiVBPSOCMJKwHvPtWBXE6nAVQ?usp=sharing )
 
 Description:
