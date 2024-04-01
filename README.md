@@ -7,7 +7,7 @@ Automating News Article Classification with Machine Learning Based on Document C
 * PART 2 (App Deployment with streamlit)
 
   
-**##PART 1 (Google Colab Project Part)**
+**PART 1 (Google Colab Project Part)**
 Google Colab Link ( https://colab.research.google.com/drive/1d_RZR8xhiVBPSOCMJKwHvPtWBXE6nAVQ?usp=sharing )
 
 Description:
@@ -102,7 +102,7 @@ Contact:
 * For any queries or feedback, please reach out to mikhail.zats@praguecollege.cz . 
 
 
-**##PART 2 (App Deployment with streamlit)**
+**PART 2 (App Deployment with streamlit)**
 App Link ( https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ )
 
 Installation:
