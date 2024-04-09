@@ -107,15 +107,27 @@ Contact:
 
 App Link ( https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ )
 
+(Manual coping method)
 Installation:
 Prerequisites:
-Install necessary Python libraries using !pip install:
-Usage:
-Detailed examples:
-Features:
-Limitations:
-Testing:
+* GIthub
+* streamlit Account
 
+Installation steps:
+* Upload in you GitHub
+  * app.py
+  * requirements.txt
+  * svm_model.pkl
+  * tfidf_vectorizer.pkl
+* Connect with streamlit Account to host
+
+
+Usage:
+Basic examples: Upload any articles by coping the text and pusting, link url or .txt file to identify which out of business, entertainment, politics, sport, and technology topics is your text about.
+
+(Automated method) 
+Go through that link https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ and Upload any articles by coping the text and pusting, link url or .txt file to identify which out of business, entertainment, politics, sport, and technology topics is your text about.
+  
 
 Contact Information: 
 mikhail.zats@praguecollege.cz
