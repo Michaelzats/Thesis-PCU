@@ -130,29 +130,24 @@ Go through that link https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ an
 
 Features:
 
-Classification of documents into predefined categories.
-
-Use of best identified in part machine learning (Support Vector Machines (SVM) without enhancements.
+* Classification of documents into predefined categories.
+* Use of best identified in part machine learning (Support Vector Machines (SVM) without enhancements.
 
 Limitations:
 
-The app is able to identify only business, entertainment, politics, sport, and technology topics.
-
-The app may have a better accuracy for business compared to other topics
-
-Topics identification based on the link URL may not work once the websites the links from have some kind of protection
+* The app is able to identify only business, entertainment, politics, sport, and technology topics.
+* The app may have a better accuracy for business compared to other topics
+* Topics identification based on the link URL may not work once the websites the links from have some kind of protection
 
 Testing:
 
-The app is evaluated using the real 20 articles articles from BBC, 20 from CNN, 20 from USN, 20 from euronews and 20 from abcnews (overall 100 articles) for each category.
-
-Evaluation metric is Accuracy. 
+* The app is evaluated using the real 20 articles articles from BBC, 20 from CNN, 20 from USN, 20 from euronews and 20 from abcnews (overall 100 articles) for each category.
+* Evaluation metric is Accuracy. 
 
 
 Contact Information: 
 
 For any queries or feedback, please reach out:
 
-Email: mikhail.zats@praguecollege.cz
-
-Phone: ‭+49 173 5923282‬
+* Email: mikhail.zats@praguecollege.cz
+* Phone: ‭+49 173 5923282‬
