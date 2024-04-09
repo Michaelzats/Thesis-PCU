@@ -107,7 +107,7 @@ Contact:
 
 App Link ( https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ )
 
-(Manual coping method)
+**(Manual coping method)**
 Installation:
 Prerequisites:
 * GIthub
@@ -125,7 +125,7 @@ Installation steps:
 Usage:
 Basic examples: Upload any articles by coping the text and pusting, link url or .txt file to identify which out of business, entertainment, politics, sport, and technology topics is your text about.
 
-(Automated method) 
+**(Automated method)** 
 Go through that link https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ and Upload any articles by coping the text and pusting, link url or .txt file to identify which out of business, entertainment, politics, sport, and technology topics is your text about.
 
 Features:
@@ -145,7 +145,7 @@ Testing:
 * Evaluation metric is Accuracy. 
 
 
-Contact Information: 
+**Contact Information:**
 
 For any queries or feedback, please reach out:
 
