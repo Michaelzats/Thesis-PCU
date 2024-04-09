@@ -131,4 +131,5 @@ Go through that link https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ an
 
 Contact Information: 
 mikhail.zats@praguecollege.cz
+
 ‭+49 173 5923282‬
