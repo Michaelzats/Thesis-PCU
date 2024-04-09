@@ -105,6 +105,8 @@ Contact:
 
 **PART 2 (App Deployment with streamlit)**
 
+Description: This app is using SVM ML method to identify what is the topic of the provided text. The data is identificator trained based are dataset (10)Dataset Text Document Classification and Dataset BBC Full Text Document Classification.
+
 App Link ( https://thesis-pcu-fm4qprwzd3mqu859qynczv.streamlit.app/ )
 
 **(Manual coping method)**
