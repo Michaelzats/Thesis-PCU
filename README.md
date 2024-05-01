@@ -2,6 +2,8 @@
 **Thesis Name:**
 Automating News Article Classification with Machine Learning Based on Document Classification Aspects
 
+Github Link to the repository with all the files: ( https://github.com/Michaelzats/Thesis-PCU )
+
 **Projects includes:**
 * PART 1 (Google Colab Project Part)
 * PART 2 (App Deployment with streamlit)
